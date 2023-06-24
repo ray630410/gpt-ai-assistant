@@ -1,5 +1,73 @@
 # Changelog
 
+## 4.7.0 (2023-06-08)
+
+### New Features
+
+- Add `OPENAI_COMPLETION_STOP_SEQUENCES` environment variable
+
+## 4.6.0 (2023-05-03)
+
+### New Features
+
+- Support `gpt-4` model
+
+## 4.5.0 (2023-04-27)
+
+### New Features
+
+- Support `zh_CN` locale
+
+## 4.4.4 (2023-03-21)
+
+### Bug Fixes
+
+- Fix default value of `APP_MAX_GROUPS` environment variable
+- Fix default value of `APP_MAX_USERS` environment variable
+
+## 4.4.3 (2023-03-11)
+
+### Bug Fixes
+
+- Fix wording of `doc` and `report` commands
+
+## 4.4.2 (2023-03-11)
+
+### Bug Fixes
+
+- Add `ERROR_MESSAGE_DISABLED` environment variable
+- Deprecate `ERROR_TIMEOUT_DISABLED` environment variable
+
+## 4.4.1 (2023-03-10)
+
+### Bug Fixes
+
+- Add default max tokens for chat completion api
+
+## 4.4.0 (2023-03-08)
+
+### New Features
+
+- Support snapshots of `gpt-3.5-turbo` model
+
+## 4.3.0 (2023-03-08)
+
+### New Features
+
+- Add `VERCEL_TEAM_ID` environment variable
+
+## 4.2.2 (2023-03-08)
+
+### Bug Fixes
+
+- Optimize error handling
+
+## 4.2.1 (2023-03-07)
+
+### Bug Fixes
+
+- Fix `add-mark` util
+
 ## 4.2.0 (2023-03-05)
 
 ### New Features
